@@ -1,3 +1,31 @@
+## Aganitha Cognitive Solutions Book Finder application
+Hello I am Adarsh Shukla and I have built this book finder application. Since my college time I am reading books so I thought this project might be interesting so here it is. 
+
+## Features 
+- Added dark mode 
+- All the books will be saved as a bookmark 
+- All the books data is coming from the API which is already mentioned 
+- All the data is getting saved in local storage. Data is saved even after refresh.
+- Responsive design, clean , Minimal & simple Design.
+- More features to come.
+
+## Deployed Link
+
+https://aganitha-book-finder-six.vercel.app/
+
+## Video Explanation 
+- Unable a show my Face ( My camera is Broken )
+ 
+[![Watch the video](https://img.shields.io/badge/Watch%20Demo-Click%20Here-blue)](https://www.dropbox.com/scl/fi/mb6io04pn6zaz44o4m1ob/Aganitha_Book_Finder_Adarsh-Shukla.mp4?rlkey=vbbbgd5863bccsn2ozfj11z1g&st=uuu6usad&dl=0)
+
+## Tech stack
+- API's = https://openlibrary.org/search.json?title=%7BbookTitle
+- React.js + tailwind css ( for functionality & design )
+- gitHub for hosting project
+- vercel for deploying project.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
